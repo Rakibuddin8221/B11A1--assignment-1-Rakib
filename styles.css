@@ -1,0 +1,92 @@
+/* Header style */
+.banner{
+    width: 1280px;
+    height: 560px;
+    border-radius: 24px;
+    background-color: rgb(197,228, 214);
+    left: 9px;
+    border-radius: 24px;
+
+    display: flex;
+    justify-content: space-between;
+    padding: 121px, 100px, 80px, 100px;
+    
+
+
+}
+.header{
+    background-color: mediumaquamarine;
+
+
+}
+.banner-content{
+    max-width: 580px ;
+    margin: 24px 160px 0 160px;
+
+
+}
+.btn-primary{
+    background-color: cadetblue;
+    width: 202px;
+    height: 22px;
+    top: 17px;
+    left: 34px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 17px 34px 17px 34px;
+    border-radius: 5px;
+    font-size: 10px;
+    font-weight: 600;
+    text-align: left;
+
+
+
+
+
+}
+.banner-gretings{
+    Width: 622pxpx
+ Height: 28px
+ padding: 0px, 0px, 0px, 0px
+
+
+}
+.banner-title{
+    width: 622px;
+    height: 201px;
+    top: 44px;
+    text-align: left;
+    font-size: 56px;
+    font-weight: 700;
+    
+
+}
+.banner-profile{
+   width: 474px;
+   height: 400px;
+   top: 75px;
+   left: 896px;
+
+
+}
+/* section style */
+.skill{
+    padding: 30px;
+    box-shadow: 
+
+
+}
+.section-title{
+
+
+}
+.section-description{
+   
+
+}
+.skill-container{
+    display: flex;
+    gap: 24px;
+
+}
+.
